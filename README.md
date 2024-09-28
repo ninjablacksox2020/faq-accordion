@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/faq-accordion-solution-fx6JpoLfda
+- Live Site URL: https://ninjablacksox2020.github.io/faq-accordion/
 
 ## My process
 
@@ -82,6 +82,5 @@ Could always getting better at CSS Layout and need to learn more Javascript
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - https://ninjablacksox2020.github.io/faq-accordion/
+- Frontend Mentor - https://www.frontendmentor.io/profile/ninjablacksox2020
